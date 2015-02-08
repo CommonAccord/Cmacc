@@ -1,16 +1,12 @@
 Contributor Agreement
-Entity Contributor Non-Exclusive License Agreement
+Individual Contributor Non-Exclusive License Agreement
 including the Patent Pledge OPTION
 Thank you for your interest in contributing to Acmoney ("We" or "Us").
 
 The purpose of this contributor agreement ("Agreement") is to clarify and document the rights granted by contributors to Us. To make this document effective, please follow the instructions at acme.com/sign.
 
 1. DEFINITIONS
-"You" means any Legal Entity on behalf of whom a Contribution has been made to Us.
-
-"Legal Entity" means an entity that is not a natural person.
-
-"Affiliate" means any other Legal Entity that controls, is controlled by, or under common control with that Legal Entity. For the purposes of this definition, "control" means (i) the power, direct or indirect, to cause the direction or management of such Legal Entity, whether by contract or otherwise, (ii) ownership of fifty percent (50%) or more of the outstanding shares or securities that vote to elect the management or other persons who direct such Legal Entity or (iii) beneficial ownership of such entity.
+"You" means the Individual Copyright owner who submits a Contribution to Us. If You are an employee and submit the Contribution as part of your employment, You have had Your employer approve this Agreement or sign the Entity version of this document.
 
 "Contribution" means any original work of authorship (software and/or documentation) including any modifications or additions to an existing work, Submitted by You to Us, in which You own the Copyright. If You do not own the Copyright in the entire work of authorship, please contact Us at contact@acme.com.
 
@@ -50,7 +46,7 @@ You hereby pledge to all developers, distributors and users of the Contribution 
 You reserve the right to revoke the patent pledge stated in section 3.1, as if it never existed with regard to any Pledge Recipient, who files a lawsuit or other legal proceedings for patent infringement or who has a direct financial interest in such a lawsuit or other legal proceedings against You or your Affiliates.
 
 4. License Obligations by US
-We agree to license the Contribution only under the terms of the following license(s) Apache-2.0 (including any right to adop t any future version of a license if permitted).
+We agree to license the Contribution only under the terms of the following license(s) Apache-2.0 (including any right to adopt any future version of a license if permitted).
 
 In addition, We may use the following licenses for Documentation in the Contribution: GFDL-1.1 (including any right to adopt any future version of a license).
 
